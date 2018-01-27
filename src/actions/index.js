@@ -8,7 +8,7 @@ export function fetchPics() {
 
   return {
     type: FETCH_PICS,
-    payload: null
+    payload: 'cokolwiek'
   };
 }
 
